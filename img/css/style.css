@@ -1,0 +1,17 @@
+.formulario{
+    color: aliceblue;
+    width: 500px;
+    background: black;
+    border-radius: 15px;
+    font-family: 'Arial';
+    font-size: 20px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 30px
+    
+}
